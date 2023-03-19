@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hello! This is Cristina Rodriguez 👋
 
-[<img src="https://img.shields.io/badge/-%40xiaozhong-blue?style=plastic&logo=linkedin">](https://www.linkedin.com/in/crissrodriguez/)
+[<img src="https://img.shields.io/badge/-%40CrissRodriguez-blue?style=plastic&logo=linkedin">](https://www.linkedin.com/in/crissrodriguez/)
 
 3+ years of experience in tech mentorship, software engineering, technical workshops, and explaining technical concepts to beginners. 20+ years of experience in project management, communications, content management, and content creation. Proven track record of successful project delivery, event organization, digital marketing campaigns, and website development. Experienced in managing volunteer outreach, creating social media posts, and overseeing pair programming sessions.
 
