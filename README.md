@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello! This is Cristina Rodriguez 👋
+![Header](https://raw.githubusercontent.com/Yosolita1978/screenshoots/40ac84de6ec0af8eabd8f91889d1195a35fdb8f4/2023/Multiverse/github-header-image.png)
 
 [<img src="https://img.shields.io/badge/-%40CrissRodriguez-blue?style=plastic&logo=linkedin">](https://www.linkedin.com/in/crissrodriguez/)
 
