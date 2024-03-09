@@ -29,6 +29,7 @@ If you're here looking for samples of my work, besides all my repos, you can fin
 
 #### Technical Talks
 I have a video of my last workshop with WWCSF about [Generative AI](https://www.youtube.com/watch?v=szc4FA7nyBo)
+I prepared all the material to make this workshop a self-paced course. You can see it in its [own repo](https://github.com/Yosolita1978/AiWorkshop), where you will find instructional videos, transcriptions, and the Google Colab Environment to play around with. 
 
 
 - 🔭 I’m currently working on developing a project with photos of my mom and mine to generate a model that tell me how much we're looking alike. You can see a first draft of that work in [this Jupiter note](https://github.com/Yosolita1978/MyMomAndMe)
