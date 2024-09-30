@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 If you're here looking for samples of my work, besides all my repos, you can find some examples of my work in this list:
 
+### Courses
+- **Next.js Course with TechConMe**: I developed multiple workshops to help individuals learn how to code and upskill their careers, focusing on building applications using Next.js. You can explore this series more at [TechConMe - YouTube playlist](https://www.youtube.com/playlist?list=PLH72tRyNBul4xwHGPuduuoUuQ1b2qz1Bc) or in the repo of the [course](https://github.com/Yosolita1978/Conference-Landing)
+
 #### Blog Posts
 - On LinkedIn: [How to write your chatbot](https://www.linkedin.com/pulse/how-i-built-my-first-chatbot-facebook-messenger-you-can-rodr%25C3%25ADguez/)
 - On Techtonica documentation: [What is a Promise in JS](https://github.com/Techtonica/curriculum/blob/12975db12e18f0bd61440e9f4c98ee9f45e3d729/javascript/javascript-9-async.md)
