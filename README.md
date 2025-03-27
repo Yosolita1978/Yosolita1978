@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Yosolita1978/Yosolita1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,28 +16,59 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/-%40CrissRodriguez-blue?style=plastic&logo=linkedin">](https://www.linkedin.com/in/crissrodriguez/)
 
-3+ years of experience in tech mentorship, software engineering, technical workshops, and explaining technical concepts to beginners. 20+ years of experience in project management, communications, content management, and content creation. Proven track record of successful project delivery, event organization, digital marketing campaigns, and website development. Experienced in managing volunteer outreach, creating social media posts, and overseeing pair programming sessions.
+👋 Hi, I'm Cristina!
 
-If you're here looking for samples of my work, besides all my repos, you can find some examples of my work in this list:
+I'm passionate about empowering others through technology, education, and mentorship.
 
-### Courses
-- **Next.js Course with TechConMe**: I developed multiple workshops to help individuals learn how to code and upskill their careers, focusing on building applications using Next.js. You can explore this series more at [TechConMe - YouTube playlist](https://www.youtube.com/playlist?list=PLH72tRyNBul4xwHGPuduuoUuQ1b2qz1Bc) or in the repo of the [course](https://github.com/Yosolita1978/Conference-Landing)
+## Professional Summary
+- **3+ years** of experience in **tech mentorship, software engineering, facilitating technical workshops**, and **simplifying complex technical concepts** for beginners.
+- **20+ years** of expertise in **project management, communications, content management**, and **content creation**.
+- Proven success in **delivering impactful projects**, **organizing engaging events**, managing effective **digital marketing campaigns**, and developing user-friendly **websites**.
+- Skilled at **managing volunteer outreach**, creating engaging **social media content**, and facilitating **pair programming** sessions.
 
-### Blog Posts
-- [How to write your chatbot](https://www.linkedin.com/pulse/how-i-built-my-first-chatbot-facebook-messenger-you-can-rodr%25C3%25ADguez/): A step-by-step guide to building your first chatbot, published on LinkedIn.
-- [What is a Promise in JS](https://github.com/Techtonica/curriculum/blob/12975db12e18f0bd61440e9f4c98ee9f45e3d729/javascript/javascript-9-async.md): A Techtonica documentation post explaining JavaScript promises in beginner-friendly terms.
-- [Instructions on how to use the basic Full-Stack template](https://github.com/Techtonica/Template2023ReactAndVite): A guide for working on final projects using Node.js and Vite, including tips for setup and deployment.
-- [Choosing the Right Hook](https://www.moonhighway.com/articles/useMemo/): Published on MoonHighway, this article dives into the effective use of the `useMemo` hook in React.
+---
 
-#### Technical Talks
-- I have a video of my last workshop with WWCSF about [Generative AI](https://www.youtube.com/watch?v=szc4FA7nyBo)
-- I prepared all the material to make this workshop a self-paced course. You can see it in its [own repo](https://github.com/Yosolita1978/AiWorkshop), where you will find instructional videos, transcriptions, and the Google Colab Environment to play around with.
-- [AI Innovations: Exploring Google's Model Garden Solutions](https://www.linkedin.com/posts/dubravcova_ai-vertexai-modelgarden-activity-7257791981441937408-pG-d?utm_source=share&utm_medium=member_desktop): Presented during GoogleDevFest2024 at the University of Washington, Seattle. This talk showcases a project using Stable Diffusion models to explore AI innovations. [View the repo](https://github.com/Yosolita1978/Cristina-Multiverse).
+## 🎓 Courses
+- **[Next.js Course with TechConMe](https://github.com/your-repo-link)**
+  - Developed a comprehensive series of workshops to help individuals learn coding and advance their careers by building practical applications with Next.js.
+  - 📺 [Watch the full TechConMe playlist on YouTube](https://www.youtube.com/your-playlist-link)
 
-#### Projects
-- **Bulls and Cows**: A code-breaking game where players guess a secret number with clues given in terms of "bulls" (correct digits in the correct position) and "cows" (correct digits in the wrong position). Visit [bulls.yosola.co](https://bulls.yosola.co/)
-- **Mexican Recipes Chatbot**: A unique creation—my mother-in-law's recipe bot! This innovative chatbot is a digital treasure trove, housing all the traditional Mexican recipes our family has cherished and shared via email. Visit [recetas.yosola.co](https://recetas.yosola.co/)
-- 🔭 **My Mom and Me**: Currently working on developing a project with photos of my mom and mine to generate a model that tells us how much we look alike. You can see a first draft of that work in [this Jupiter note](https://github.com/Yosolita1978/MyMomAndMe)
+---
+
+## 📝 Blog Posts
+- [**How to Write Your Chatbot**](https://linkedin.com/your-article-link): Step-by-step guide to creating your first chatbot.
+- [**What is a Promise in JavaScript?**](https://techtonica.org/your-doc-link): Beginner-friendly documentation explaining JavaScript promises.
+- [**Full-Stack Template Guide**](https://your-link-here): Instructions for setting up and deploying Node.js and Vite-based projects.
+- [**Choosing the Right Hook**](https://moonhighway.com/your-article-link): Effective usage of React's useMemo hook.
+
+---
+
+## 🎤 Technical Talks
+- **Generative AI Workshop (WWCSF)**
+  - Delivered an interactive workshop on Generative AI, now available as a self-paced course with instructional videos, transcripts, and a ready-to-use Google Colab environment.
+  - 🔗 [Explore the repo](https://github.com/your-repo-link)
+
+- **[AI Innovations: Exploring Google's Model Garden Solutions](https://github.com/your-repo-link)**
+  - Presented at Google DevFest 2024, University of Washington. This talk covers practical applications of Stable Diffusion models.
+  - 📺 Missed the live session? [Watch the full recording](https://www.youtube.com/watch?v=vWIYYvaJwYU)
+
+---
+
+## 🚀 Projects
+- [**Bulls and Cows Game**](https://bulls.yosola.co)
+  - A fun, interactive code-breaking game where you guess a secret number using logical clues ("bulls" and "cows").
+
+- [**Mexican Recipes Chatbot**](https://recetas.yosola.co)
+  - A personal digital cookbook featuring cherished traditional Mexican recipes, shared and curated through an innovative chatbot interface.
+
+- 🔭 **My Mom and Me**
+  - A unique project leveraging AI to analyze and predict resemblance between my mom and me using our photos.
+  - 📓 [View the initial draft in Jupyter Notebook](https://your-jupyter-link-here)
+
+---
+
+Feel free to explore my repositories for additional samples of my work. Let's connect!
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Yosolita1978&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yosolita1978&hide=TeX&layout=compact)
