@@ -29,27 +29,28 @@ I'm passionate about empowering others through technology, education, and mentor
 ---
 
 ## 🎓 Courses
-- **[Next.js Course with TechConMe](https://github.com/your-repo-link)**
+- **[Next.js Course with TechConMe](https://github.com/Yosolita1978/Conference-Landing)**
   - Developed a comprehensive series of workshops to help individuals learn coding and advance their careers by building practical applications with Next.js.
-  - 📺 [Watch the full TechConMe playlist on YouTube](https://www.youtube.com/your-playlist-link)
+  - 📺 [Watch the full TechConMe playlist on YouTube](https://www.youtube.com/playlist?list=PLH72tRyNBul4xwHGPuduuoUuQ1b2qz1Bc)
 
 ---
 
 ## 📝 Blog Posts
-- [**How to Write Your Chatbot**](https://linkedin.com/your-article-link): Step-by-step guide to creating your first chatbot.
-- [**What is a Promise in JavaScript?**](https://techtonica.org/your-doc-link): Beginner-friendly documentation explaining JavaScript promises.
-- [**Full-Stack Template Guide**](https://your-link-here): Instructions for setting up and deploying Node.js and Vite-based projects.
-- [**Choosing the Right Hook**](https://moonhighway.com/your-article-link): Effective usage of React's useMemo hook.
+- [**How to Write Your Chatbot**](https://www.linkedin.com/pulse/how-i-built-my-first-chatbot-facebook-messenger-you-can-rodr%25C3%25ADguez/?trackingId=h20iWybYQZC34fQhADon2Q%3D%3D): Step-by-step guide to creating your first chatbot.
+- [**What is a Promise in JavaScript?**](https://github.com/Techtonica/curriculum/blob/main/javascript/javascript-9-async.md): Beginner-friendly documentation explaining JavaScript promises.
+- [**Full-Stack Template Guide**](https://github.com/Techtonica/curriculum/blob/main/projects/2023TemplateWithVite/README.md): Instructions for setting up and deploying Node.js and Vite-based projects.
+- [**Choosing the Right Hook**](https://www.moonhighway.com/articles/useMemo/): Effective usage of React's useMemo hook.
 
 ---
 
 ## 🎤 Technical Talks
 - **Generative AI Workshop (WWCSF)**
   - Delivered an interactive workshop on Generative AI, now available as a self-paced course with instructional videos, transcripts, and a ready-to-use Google Colab environment.
-  - 🔗 [Explore the repo](https://github.com/your-repo-link)
+  - 🔗 [Explore the Google Colab notebook](https://colab.research.google.com/github/Yosolita1978/AiWorkshop/blob/main/GenerativeAI_Workshop.ipynb)
+  - 🔗 [Explore the repo](https://github.com/Yosolita1978/AiWorkshop)
 
-- **[AI Innovations: Exploring Google's Model Garden Solutions](https://github.com/your-repo-link)**
-  - Presented at Google DevFest 2024, University of Washington. This talk covers practical applications of Stable Diffusion models.
+- **[AI Innovations: Exploring Google's Model Garden Solutions](https://github.com/Yosolita1978/AiWorkshop)**
+  - Presented at Google DevFest 2024, University of Washington. This talk covers the practical applications of Stable Diffusion models.
   - 📺 Missed the live session? [Watch the full recording](https://www.youtube.com/watch?v=vWIYYvaJwYU)
 
 ---
@@ -58,12 +59,16 @@ I'm passionate about empowering others through technology, education, and mentor
 - [**Bulls and Cows Game**](https://bulls.yosola.co)
   - A fun, interactive code-breaking game where you guess a secret number using logical clues ("bulls" and "cows").
 
+- [**Cristina Multiverse**](https://multiverse.yosola.co/)
+  - A fun, interactive project to demostrate the capacities of Stable Difussion models with storytelling.
+  - 🔗 [Explore the repo](https://github.com/Yosolita1978/Cristina-Multiverse)
+
 - [**Mexican Recipes Chatbot**](https://recetas.yosola.co)
   - A personal digital cookbook featuring cherished traditional Mexican recipes, shared and curated through an innovative chatbot interface.
 
 - 🔭 **My Mom and Me**
   - A unique project leveraging AI to analyze and predict resemblance between my mom and me using our photos.
-  - 📓 [View the initial draft in Jupyter Notebook](https://your-jupyter-link-here)
+  - 📓 [View the Jupyter Notebook](https://github.com/Yosolita1978/MyMomAndMe)
 
 ---
 
