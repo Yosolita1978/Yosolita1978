@@ -44,7 +44,7 @@ I'm passionate about empowering others through technology, education, and mentor
 ---
 
 ## 🎤 Technical Talks
-- **Generative AI Workshop (WWCSF)**
+- **[Generative AI Workshop (WWCSF)](https://www.youtube.com/watch?v=szc4FA7nyBo)**
   - Delivered an interactive workshop on Generative AI, now available as a self-paced course with instructional videos, transcripts, and a ready-to-use Google Colab environment.
   - 🔗 [Explore the Google Colab notebook](https://colab.research.google.com/github/Yosolita1978/AiWorkshop/blob/main/GenerativeAI_Workshop.ipynb)
   - 🔗 [Explore the repo](https://github.com/Yosolita1978/AiWorkshop)
