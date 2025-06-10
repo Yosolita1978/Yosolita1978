@@ -34,6 +34,14 @@ I'm passionate about empowering others through technology, education, and mentor
   - 📺 [Watch the full TechConMe playlist on YouTube](https://www.youtube.com/playlist?list=PLH72tRyNBul4xwHGPuduuoUuQ1b2qz1Bc)
 
 ---
+## 📺 YouTube Channel  
+**Criss Rodriguez – TechConMe**  
+Sharing bite-sized lessons, full-length coding workshops, and technical tutorials to support career changers and self-taught developers.  
+
+- 🔗 [Visit Channel](https://www.youtube.com/channel/UC9kuIlDE7koknPqu8Cfkh_Q)  
+- 🎞️ 9 videos
+
+---
 
 ## 📝 Blog Posts
 - [**How to Write Your Chatbot**](https://www.linkedin.com/pulse/how-i-built-my-first-chatbot-facebook-messenger-you-can-rodr%25C3%25ADguez/?trackingId=h20iWybYQZC34fQhADon2Q%3D%3D): Step-by-step guide to creating your first chatbot.
