@@ -76,7 +76,29 @@ Sharing bite-sized lessons, full-length coding workshops, and technical tutorial
 
 - 🔭 **My Mom and Me**
   - A unique project leveraging AI to analyze and predict resemblance between my mom and me using our photos.
-  - 📓 [View the Jupyter Notebook](https://github.com/Yosolita1978/MyMomAndMe)
+  -  📓 [View the Jupyter Notebook](https://github.com/Yosolita1978/MyMomAndMe)
+ 
+## 📜 Certifications
+
+- **AI Agents Fundamentals**  
+  *Hugging Face – Issued May 2025*  
+  [View Credential](https://huggingface.co/)  
+ 
+
+- **Introduction to Generative AI**  
+  *Google – Issued September 2023*  
+  [View Credential](https://www.cloudskillsboost.google/)  
+  
+
+- **Android Basics Nanodegree Program**  
+  *Udacity – Issued January 2018*  
+  [View Credential](https://www.udacity.com/)  
+  Skills: React Native, Java
+
+- **Grow with Google Challenge Scholarship**  
+  *Udacity – Issued January 2018 
+  Program sponsored by Google to expand access to technical training
+  
 
 ---
 
